@@ -204,4 +204,9 @@ textcolor: https://tailwindcss.com/docs/text-color
   <div class="flex-1 order-1 p-2 border-4 border-blue-500">4번 김민수</div>
 </div>
 ```
-### 7. 리엑트 
+
+### 7. 리액트 프로젝트에 Tailwind 적용하기
+
+- tw 폴더 만들고 프로젝트 생성
+- `npx create-react-app ./`
+- https://tailwindcss.com/docs/installation
