@@ -16,7 +16,7 @@ export default function RootLayout({
       <head>
         <meta
           name="naver-site-verification"
-          content="8d0adb20f574d2b9ce583dffb9646df469aecb0f"
+          content="dc40437fcdfd9169876fdc74e00e1e7be61335a6"
         />
         <link
           rel="canonical"
