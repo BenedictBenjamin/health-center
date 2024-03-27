@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://health-center-devgreact.vercel.app
+Host: https://health-center-47fe.vercel.app/
 
 # Sitemaps
-Sitemap: https://health-center-devgreact.vercel.app/sitemap.xml
+Sitemap: https://health-center-47fe.vercel.app/sitemap.xml
