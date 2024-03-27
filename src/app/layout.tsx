@@ -26,6 +26,7 @@ export default function RootLayout({
           name="google-site-verification"
           content="sDXYzEQ88wOYsBWLe4mpWKfz034pytzYyJpUAymbrxk"
         />
+        <GoogleAnalytics gaId="G-6FSPLKSHL5" />
       </head>
       <body>{children}</body>
     </html>
